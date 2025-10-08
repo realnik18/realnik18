@@ -1,4 +1,3 @@
-# realnik18-realnik18
 # Hi, I’m Nikita 👋  
 
 💻 **Full-Stack Software Engineer** with 5+ years of experience  
